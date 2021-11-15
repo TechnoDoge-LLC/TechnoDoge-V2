@@ -25,7 +25,9 @@
 
 ## About
 
-<p>TechnoDoge, LLC® is a legally registered LLC based in the U.S. that has the vision of creating a safe space for all crypto enthusiasts, investors, and projects. </p>
+<p>TechnoDoge, LLC® is a legally registered LLC based in the U.S. that has the vision of creating a safe space for all crypto enthusiasts, investors, and projects. Our goal with TechnoDoge is to create a strong ecosystem of cryptocurrencies that are
+fully verified, rug-proof, scam-proof, and honeypot-proof. This furthers our vision of
+creating a safe and thriving community.  </p>
 
 <p align="center">
   <img src="https://www.technodoge.com/wp-content/uploads/2021/07/3d-coin-gold-4.gif" width="128" />
